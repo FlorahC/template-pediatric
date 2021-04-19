@@ -1,0 +1,98 @@
+<template>
+    	<!-- Service Section -->
+		   	<section class="section service-section">
+				<div class="container">
+					<div class="section-header">
+						<h6>Wide Range of Services</h6>
+						<h2>Most Effective Treatment</h2>
+					</div>
+					<div class="row service-grid">
+						<div class="col-md-6 col-lg-4 col-sm-12">
+						
+							<!-- Services -->
+							<div class="service-blog">
+								<div class="service-image">
+									<img class="img-fluid" src="@/assets/img/features/ser-img1.jpg" alt="Post Image">
+									<div class="service-content text-center">
+										<h3 class="service-title mb-0">Prenatal/Newborn</h3>
+									</div>
+								</div>								
+							</div>
+							<!-- /Services -->
+							
+						</div>
+						<div class="col-md-6 col-lg-4 col-sm-12">
+						
+							<!-- Services -->
+							<div class="service-blog">
+								<div class="service-image">
+									<img class="img-fluid" src="@/assets/img/features/ser-img2.jpg" alt="Post Image">
+								</div>
+								<div class="service-content text-center">
+									<h3 class="service-title mb-0">Vaccinations/Immunizations</h3>
+								</div>
+							</div>
+							<!-- /Services -->
+							
+						</div>
+						<div class="col-md-6 col-lg-4 col-sm-12">
+						
+							<!-- Services -->
+							<div class="service-blog">
+								<div class="service-image">
+									<img class="img-fluid" src="@/assets/img/features/ser-img3.jpg" alt="Post Image">
+								</div>
+								<div class="service-content text-center">
+									<h3 class="service-title mb-0">Nutrition Services</h3>
+								</div>
+							</div>
+							<!-- /Services -->
+							
+						</div>						
+						<div class="col-md-6 col-lg-4 col-sm-12">
+						
+							<!-- Services -->
+							<div class="service-blog">
+								<div class="service-image">
+									<img class="img-fluid" src="@/assets/img/features/ser-img4.jpg" alt="Post Image">
+								</div>
+								<div class="service-content text-center">
+									<h3 class="service-title mb-0">Development Delay</h3>
+								</div>
+							</div>
+							<!-- /Services -->
+							
+						</div>
+						<div class="col-md-6 col-lg-4 col-sm-12">
+						
+							<!-- Services -->
+							<div class="service-blog">
+								<div class="service-image">
+									<img class="img-fluid" src="@/assets/img/features/ser-img5.jpg" alt="Post Image">
+								</div>
+								<div class="service-content text-center">
+									<h3 class="service-title mb-0">Allergy Testing</h3>
+								</div>
+							</div>
+							<!-- /Services -->
+							
+						</div>
+						<div class="col-md-6 col-lg-4 col-sm-12">
+						
+							<!-- Services -->
+							<div class="service-blog">
+								<div class="service-image">
+									<img class="img-fluid" src="@/assets/img/features/ser-img6.jpg" alt="Post Image">
+								</div>
+								<div class="service-content text-center">
+									<h3 class="service-title mb-0">Weight Loss</h3>
+								</div>
+							</div>
+							<!-- /Services -->
+							
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- /Service Section -->
+</template>
