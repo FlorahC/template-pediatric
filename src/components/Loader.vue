@@ -101,7 +101,7 @@ export default {
 	background: #272b41;  
 }
 .loader-ellips__dot:nth-child(2) { 
-	background: #fe235b;  
+	background: #892BE1;  
 }
 .loader-ellips__dot:nth-child(3) { 
 	background: #272b41;  

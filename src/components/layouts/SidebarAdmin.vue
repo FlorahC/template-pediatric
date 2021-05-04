@@ -197,11 +197,11 @@
       background-color: transparent !important;
   }
   .sidebar-menu ul li a.active {
-    background-color: #fe235b;
+    background-color: #892BE1;
     color: #fff;
 }
 .sidebar-menu ul ul a.active {
-    color: #fe235b;
+    color: #892BE1;
     text-decoration: underline;
     background-color: unset;
 }
